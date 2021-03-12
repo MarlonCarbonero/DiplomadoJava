@@ -76,7 +76,7 @@ public class Ejercicio018 {
         System.out.println("El estudiante " + nombre[9] + " con las calificaciones " + cal1[9] + ", " + cal2[9] + ", " + cal3[9] + ", " + " tiene un promedio de " + df2.format(promedio[9]) + ", siendo asi " + estado[9]);
         System.out.println("El numero de estudiantes aprobados es de:" + totalA);
         System.out.println("El numero de estudiantes reprobados es de: " + totalR);
-        System.out.println("El numero de estudiantes con un promedio es de: " + totalAA);
+        System.out.println("El numero de estudiantes con un promedio de 80 o más es de: " + totalAA);
     }
 
 }
